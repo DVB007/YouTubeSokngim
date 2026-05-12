@@ -8,5 +8,5 @@ public class HolidayCard extends Card{
         return "Wish you on your Holiday!!!";
     }
 
-    //Note if you add annotation override on method are not override it'll be error
+    //Note if you add annotation "@override" on method are not override it'll be error
 }
